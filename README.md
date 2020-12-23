@@ -2,8 +2,8 @@
 
 > A [SinusBot][sinus] script repository to hold all custom scripts made on request or for personal use.
 
-[![](https://forthebadge.com/images/badges/60-percent-of-the-time-works-every-time.svg)][resource-page]
-[![](https://forthebadge.com/images/badges/made-with-javascript.svg)][resource-page]
+[![](https://forthebadge.com/images/badges/60-percent-of-the-time-works-every-time.svg)][discord]
+[![](https://forthebadge.com/images/badges/made-with-javascript.svg)][discord]
 
 - [Discord][discord]
 
@@ -23,7 +23,7 @@ If you want to request a script for personal use or if you just have a good idea
 
 - [**Custom Scripts**](#custom-scripts)
   - [**📑 Overview**](#-overview)
-  - [**� Scripts**](#-scripts)
+  - [**🐍 Scripts**](#-scripts)
   - [**📕 History**](#-history)
   - [**🤷‍♂️ Own Scripts**](#️-own-scripts)
   - [**🎓 License**](#-license)
