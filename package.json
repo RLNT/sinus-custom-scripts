@@ -1,7 +1,7 @@
 {
-  "name": "sinus-template",
+  "name": "sinus-custom-scripts",
   "version": "1.0.0",
-  "description": "With this script, the bot will automatically ...",
+  "description": "A SinusBot script repository to hold all custom scripts made on request or for personal use.",
   "license": "GNU GPL v3.0",
   "author": "RLNT",
   "main": "",
