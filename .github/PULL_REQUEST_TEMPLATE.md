@@ -1,33 +1,37 @@
 <!--
-Provide a short and clear title above
+Before you submit anything:
+  1. Make sure whatever you submit isn't already submitted or implemented in a newer version.
+  2. Follow our Code of Conduct!
+  3. Follow our Contribution Guidelines!
 
-If you need help with the script, join the Discord instead!
-https://discordapp.com/invite/Q3qxws6
+Steps to submit a pull request:
+  1. Provide a short and clear title above.
+  2. Split your pull request in logical commits especially if you implemented multiple features or fixed multiple bugs!
+  3. Unrelated features or bug fixes should be done in different pull requests.
+  4. Keep the submission in English.
+  5. Follow the pull request template.
 
-Please split your pull requests in logical commits especially if you implemented multiple features or fixed multiple bugs. Completely unrelated features should be split in different pull requests instead.
-
-Keep the submission in English so other people are able to understand it.
+If you decide to delete the template or don't follow the steps, the pull request will be closed without any comment.
 -->
 
-### Issue Reference
+## Issue Reference
 <!--
 Is your pull request related to an issue?
-If so, mention it here. Only provide the link to it. You can also provide multiple links if your pull request is related to multiple issues.
-Otherwise delete this section.
+If so, mention it here by providing the URL to the issue.
+You can also provide multiple URLs if your pull request is related to multiple issues.
+If not, you can delete this section.
 -->
-https://github.com/RLNT/sinus-template/issues/0
 
-### Proposed Changes
+## Proposed Changes
 <!--
-Please list your changes here. Be as descriptive as possible.
-If you delete this section and don't provide your changes, the pull request will be closed.
+Please give us a basic overview of your changes here. You can add sub-lists to add more description.
 -->
--
--
--
--
+- fixed ...
+  - this should help ...
+  - the implementation should be reworked
+- added logs for ...
 
-### Additional Context
+## Additional Context
 <!--
 If you have any additional material that might be valuable for this pull request such as screenshots, provide them here.
 Otherwise delete this section.

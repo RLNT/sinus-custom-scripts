@@ -1,32 +1,34 @@
 ---
 name: Feature Request / Improvement
-about: Suggest an idea or a new feature for the script
+about: Suggest an idea or a new feature
 title: ''
 labels: status > pending, type > enhancement
 assignees: ''
 ---
 
 <!--
-Provide a short and clear title above
+Before you submit anything:
+  1. If you have a general support request, do not use the issue tracker and join our Discord server instead!
+  2. Make sure the idea isn't already submitted or implemented in a newer version.
+  3. Follow our Code of Conduct!
+  4. Follow our Contribution Guidelines!
 
-If you need help with the script, join the Discord instead!
-https://discordapp.com/invite/Q3qxws6
+Steps to submit a feature request:
+  1. Provide a short and clear title above.
+  2. Only request one feature per submission!
+  3. Keep the submission in English.
+  4. Follow the issue template.
 
-Before submitting a feature request, make sure this wasn't already submitted or is already implemented in the newest version.
-
-Please suggest one feature per submission please!
-
-Keep the submission in English so other people are able to understand it.
-
-If you decide to delete the template and don't fill out the necessary information, the issue will be closed without any comment.
+If you decide to delete the template or don't follow the steps, the submission will be closed without any comment.
 -->
 
-### Feature Description
+## Feature Description
 <!--
-Please give a clear and concise description of the idea you have or the feature you want to see.
+Please give a clear and concise description of the idea you have.
 -->
 
-### Additional Context
+## Additional Context
 <!--
+OPTIONAL: can be deleted if nothing is written
 If applicable, add images to help explaining your idea.
 -->

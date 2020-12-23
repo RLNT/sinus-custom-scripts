@@ -1,12 +1,11 @@
-# **Sinus Template**
+# **Custom Scripts**
 
-> A [SinusBot][sinus] script that will automatically ...
+> A [SinusBot][sinus] script repository to hold all custom scripts made on request or for personal use.
 
 [![](https://forthebadge.com/images/badges/60-percent-of-the-time-works-every-time.svg)][resource-page]
 [![](https://forthebadge.com/images/badges/made-with-javascript.svg)][resource-page]
 
 - [Discord][discord]
-- [Sinusbot Resource Page][resource-page]
 
 ---
 
@@ -22,56 +21,56 @@ If you want to request a script for personal use or if you just have a good idea
         <strong>Table of Contents (click to expand)</strong>
     </summary>
 
-- [**Sinus Template**](#sinus-template)
+- [**Custom Scripts**](#custom-scripts)
   - [**📑 Overview**](#-overview)
-  - [**🔧 Installation**](#-installation)
+  - [**� Scripts**](#-scripts)
   - [**📕 History**](#-history)
-  - [**⏰ Changelog**](#-changelog)
+  - [**🤷‍♂️ Own Scripts**](#️-own-scripts)
   - [**🎓 License**](#-license)
 </details>
 
 
 ## **📑 Overview**
-This is a script for the [SinusBot][sinus]. It will automatically ...
+These are scripts for the [SinusBot][sinus].<br>
+They were made on request.
 
-It can be used to ...
+We collect them in a general repository because they are not published to the [SinusBot][sinus] forums.
 
-<details>
-    <summary>
-        <strong>Preview (click to expand)</strong>
-    </summary>
-
-![preview](images/preview.png)
-</details>
+You can still use them if you want but there won't be further instructions or any information about the installation as well as the usage. The scripts also won't be updated as regularly unless the user who requested it wants it or we have some free time to do so.
 
 
-## **🔧 Installation**
-
-1. Download the latest **js-file** from the [releases].
-2. Drop it in the scripts folder of your [SinusBot][sinus].
-3. Start/Restart the bot.
-4. Navigate to the script settings.
-5. Configure it to your liking (we recommend using [this guide][config-guide]), activate and save it and then restart the bot instance.
+## **🐍 Scripts**
+- join-info
+  - requested by: nongbookza12
+  - sends a client various information when they join
+- support-lock
+  - requested by: tomislav
+  - opens and closes a configurable support channel if atleast one member of configurable supporter groups is online
 
 
 ## **📕 History**
-This script was requested by [Anyone][requester].
+Users want to customize their [TeamSpeak] servers on daily basis and the [SinusBot][sinus] offers a pretty good scripting API to automate mostly anything.
+
+Since not everyone is a programmer, we create scripts on user requests.
+
+Sometimes users have a really specific wish or request or maybe we want to create a script for our personal use which doesn't really have huge demand.<br>
+In these cases, we store these scripts in this repository instead of creating a new one for each of them.
+
+This keeps everything tidy and prevents repository spam.
 
 
-## **⏰ Changelog**
-Everything related to versions and their release notes can be found in the [changelog].
+## **🤷‍♂️ Own Scripts**
+In case you also want a specific script, you can request one on our [Discord server][discord].
+
+The price depends on the complexity and the effort that we need to spend on the project.
 
 
 ## **🎓 License**
-This project is licensed under the [GNU GPL v3.0][license].
+This repository is licensed under the [GNU GPL v3.0][license].
 
 
 <!-- Links -->
 [sinus]: https://www.sinusbot.com/
 [discord]: https://discordapp.com/invite/Q3qxws6
-[resource-page]: https://forum.sinusbot.com/resources/todo
-[releases]: https://github.com/RLNT/sinus-template/releases
-[config-guide]: CONFIGURATION.md
-[requester]: https://forum.sinusbot.com/members/anyone/
-[changelog]: CHANGELOG.md
+[TeamSpeak]: https://teamspeak.com/
 [license]: LICENSE.md
